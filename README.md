@@ -44,7 +44,7 @@
  
  β)ρομποτάκι edison
  
- γ)υπολογιστή με κάμερα για να αξιοποίησουμε την εφαρμογή τεχνητής νοημοσύνης  Teachable Machine (https://teachablemachine.withgoogle.com/)
+ γ)υπολογιστή με κάμερα για να αξιοποιήσουμε την εφαρμογή τεχνητής νοημοσύνης  Teachable Machine (https://teachablemachine.withgoogle.com/)
  
  ΥΛΟΠΟΙΗΣΗ ΤΗΣ ΔΡΑΣΗΣ:
  Αρχικά τα παιδιά γνωρίζουν τις δυνατότητες του ρομποτ Edison.Ανακαλύπτουν ότι
@@ -57,9 +57,21 @@
  
  https://youtu.be/6ujasAOiuTI
  
- Κατόπι κατσκευάζουν την μακέτα της αυλής του σχολείου μας:
+ Κατόπιν κατσκευάζουν την μακέτα της αυλής του σχολείου μας:
  
  https://youtu.be/Rqo-vR6wQ6Y
+ 
+ Και...ώρα για παιχνίδι:
+ 
+ https://youtu.be/2TjXavq5k8Y
+ 
+ ΦΩΤΟΓΡΑΦΙΚΟ ΥΛΙΚΟ ΑΠΟ ΤΗΝ ΕΝΑΣΧΟΛΗΣΗ ΜΑΣ ΜΕ ΤΟ ΘΕΜΑ ΓΕΝΙΚΟΤΕΡΑ:
+ 
+ https://docs.google.com/document/d/1RoFbf4qLtcsHzY06jZOudZZ_cBKuQSWnXouZcXz83UY/edit?usp=sharing
+ 
+ 
+ 
+ 
  
  
  
